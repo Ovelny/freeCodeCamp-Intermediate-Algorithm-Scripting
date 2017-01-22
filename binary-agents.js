@@ -1,4 +1,3 @@
-
 function binaryAgent(str) {
   
   let arrStr = str.split(' ')
